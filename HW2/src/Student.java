@@ -8,7 +8,7 @@ public class Student {
     private int hours;    // study hours
 
     // default constructor
-    public Student() {
+    public Student(String string) {
         // maybe some defaults here?
     }
 
